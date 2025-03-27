@@ -112,6 +112,8 @@ python main.py --mode predict
 ```
 
 ##  📁 Project Structure
+<pre>
+```plaintext
 bitcoin-price-prediction-rnn/
 ├── data/
 │   └── BTC-Daily.csv              # Dataset file
@@ -124,6 +126,9 @@ bitcoin-price-prediction-rnn/
 ├── main.py                        # CLI-based training/prediction script
 ├── requirements.txt               # Python dependencies
 └── README.md                      # This file
+```
+</pre>
+
 
 ## 📎 Requirements
 
