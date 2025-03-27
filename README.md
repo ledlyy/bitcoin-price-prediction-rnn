@@ -122,7 +122,7 @@ bitcoin-price-prediction-rnn/
 ├── notebooks/
 │   └── rnn-bitcoin.ipynb          # Original Jupyter Notebook implementation
 ├── images/
-│   └── prediction_plot.png        # Output visualization (add screenshot here)
+│   └── output.png        # Output visualization (add screenshot here)
 ├── main.py                        # CLI-based training/prediction script
 ├── requirements.txt               # Python dependencies
 └── README.md                      # This file
